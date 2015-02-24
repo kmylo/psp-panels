@@ -3,6 +3,7 @@
 
 
 //resources
+<br>
 node.js photoshop
 http://adobescripting.com/MAIN_wp/creating-photoshop-html5-extensions/
 
