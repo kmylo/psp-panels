@@ -33,3 +33,6 @@ http://www.davidebarranca.com/2014/05/html-panels-tips-10-packaging-zxp-installe
 https://code.google.com/p/chromiumembedded/
 <br>
 https://github.com/Adobe-CEP/CEP-Resources
+
+
+(ruta):\Users\(usuario)\AppData\Roaming\Adobe\CEPServiceManager4\extensions
