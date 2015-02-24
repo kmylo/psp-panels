@@ -34,5 +34,13 @@ https://code.google.com/p/chromiumembedded/
 <br>
 https://github.com/Adobe-CEP/CEP-Resources
 
-
+<br>
 (ruta):\Users\(usuario)\AppData\Roaming\Adobe\CEPServiceManager4\extensions
+
+PlayerDebugMode
+<br><p>
+Applications will normally not load an extension unless it is cryptographically signed. However, during development we want to be able to quickly test an extension without having to sign it. To turn on debug mode:
+
+    On Mac, open the file ~/Library/Preferences/com.adobe.CSXS.4.plist and add a row with key PlayerDebugMode, of type String, and value 1.
+    On Windows, open the registry key HKEY_CURRENT_USER/Software/Adobe/CSXS.4 and add a key named PlayerDebugMode, of type String, and value 1.</p>
+
